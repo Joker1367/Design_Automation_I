@@ -1,0 +1,33 @@
+This is README file for DA(I) Proj1
+Author: Chun-Ting, Lin 109061217
+Date: 2023.10.04
+=====================================================================
+SYNOPSIS:
+
+TSP_Solver -[DP|BB] <input_file_name> <output_file_name>
+
+This is a program supports two methods for solveing TSP: 
+1. Dynamic Programming
+2. Branch & Bound
+=====================================================================
+DIRECTORY:
+
+bin/	executable binary
+doc/	spec and report
+input/	input data
+output/	ouput data
+src/	source c++ codes
+=====================================================================
+HOW TO COMPILE:
+
+	make: generates TSP_Solver in bin
+	make clean: remove all executable binaries and .o files
+
+=====================================================================
+HOW TO RUN:
+
+	bin/TSP_Solver -[DP|BB] <input_file_name> <output_file_name>
+
+	For example, under Proj1
+	bin/TSP_Solver -DP input/1.in output/1.out
+=====================================================================
