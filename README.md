@@ -4,5 +4,5 @@ Instructor: Prof. JT Li
 
 ## Project 1
 Topic : Traveling Salesman Problem  
-Score :   
+Score : ? / 100  
 Comments : I write a program solving the TSP using "Dynamic Programming", "Branch & Bound" and also practicing how to use "makefile" to compile large program.
