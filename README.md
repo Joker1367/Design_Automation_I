@@ -1,5 +1,5 @@
 # Design_Automation_I  
-2023 Fall COM5335 Network Security  
+2023 Fall Design Automation (I) 
 Instructor: Prof. JT Li
 
 ## Project 1
